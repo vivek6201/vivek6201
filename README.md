@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Everyone!<br>I am Vivek Kumar Gupta.<br>I am a Frontend Developer.<br>Teck Stack i use in my daily devlopment are MERN.<br>Currently enhancing my existing knowledge in React.js and Flutter.<br><br>Appart from all these I love to play  Badminton and Chess.
+Hey Everyone!<br>I am Vivek Kumar Gupta.<br>I am a Frontend Developer.<br>Teck Stack i use in my daily development is MERN.<br>Currently enhancing my existing knowledge in React.js and Flutter.<br><br>Appart from all these I love to play  Badminton and Chess.
 
 
 ## 🌐 Socials:

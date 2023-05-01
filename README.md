@@ -90,8 +90,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vivek6201/vivek6201/output/snake.svg" alt="Snake animation" />
-
-###

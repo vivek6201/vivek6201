@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">My Skills</h4>
+<h4 align="center">My Skills</h4>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">My Socials</h4>
+<h4 align="center">My Socials</h4>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="left">My Blogs</h4>
+<h4 align="center">My Blogs</h4>
 
 ###
 

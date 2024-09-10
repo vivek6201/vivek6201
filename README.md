@@ -74,19 +74,3 @@
 </div>
 <br/>
 
-###
-
-<h4 align="center">My Blogs</h4>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=gvicky45678&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
-
-###
-
